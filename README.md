@@ -1,5 +1,5 @@
 
-<p align="center"><img width="95%" height="200px" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg" /></p>
+<p align="center"><img width="95%" height="250px" border-radius="5%" src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Quotes.jpg" /></p>
 
 # Hi there, I'm Dilek 👋
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
+🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/" tab="_blank">CodeYourFuture </a>
 
 
 
