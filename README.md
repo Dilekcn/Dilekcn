@@ -21,6 +21,32 @@ Here are some ideas to get you started:
 
 
 
+## ⚡ Technologies
+![Salesforce](https://img.shields.io/badge/-Salesforce-black?style=for-the-badge&logo=salesforce)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/-Expressjs-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
