@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/" tab="_blank">CodeYourFuture </a>
 
+### ⚙ Here are my Codewars stats:
+
+<img src= "https://www.codewars.com/users/Dilekcn/badges/micro" width= "200"/> 
 
 
 
