@@ -1,5 +1,5 @@
 
-<p align="center"><img width="95%" height="250px" border-radius="5%" src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Quotes.jpg" /></p>
+<p align="center"><img width="95%" height="250px" src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Quotes.jpg" /></p>
 
 # Hi there, I'm Dilek 👋
 
