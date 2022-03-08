@@ -1,4 +1,7 @@
-### Hi there, I'm Dilek 👋
+
+<p align="center"><img width="95%" height="200px" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg" /></p>
+
+# Hi there, I'm Dilek 👋
 
 <!--
 **Dilekcn/Dilekcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
